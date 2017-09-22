@@ -1,0 +1,8 @@
+A command line tool for solving sudoku puzzles!
+
+Use:
+	1. Clone and navigate to the repository directory on your computer
+	2. Run the program from the terminal using 'python3 sudoku.py'
+	3. Input the sudoku board
+		Type each row of the puzzle using '0' or ' ' to indicate a blank spot
+	4. Look at the completed puzzle or correct an input mistake
